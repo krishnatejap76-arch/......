@@ -66,7 +66,7 @@
             <form id="accessForm" action="https://formspree.io/f/mgolzqpl" method="POST">
                 <input type="text" name="Name" placeholder="Name" class="w-full bg-slate-800 border border-slate-700 p-2.5 rounded-xl mb-3 text-xs text-white" required>
                 <input type="text" name="College" placeholder="College" class="w-full bg-slate-800 border border-slate-700 p-2.5 rounded-xl mb-3 text-xs text-white" required>
-                <a href="https://youtube.com/@masteringskillz2?si=AxD3Q8jOAbECaPY3" target="_blank" onclick="document.getElementById('subCheck').checked = true" class="block bg-red-600 p-2.5 rounded-xl mb-3 text-[10px] font-bold text-white transition active:scale-95">SUBSCRIBE CHANNEL</a>
+                <a href="https://youtube.com/@masteringskillz2?si=AxD3Q8jOAbECaPY3" target="_blank" onclick="document.getElementById('subCheck').checked = true" class="block bg-red-600 p-2.5 rounded-xl mb-3 text-[10px] font-bold text-white transition active:scale-95">SUBSCRIBE MY YOUTUBE CHANNEL</a>
                 <div class="flex items-center justify-center gap-2 mb-4 text-[10px]">
                     <input type="checkbox" id="subCheck" required> <span>I HAVE SUBSCRIBED</span>
                 </div>
